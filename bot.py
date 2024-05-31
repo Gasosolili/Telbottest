@@ -3,7 +3,7 @@ import telegram
 from telegram.ext import Updater, CommandHandler
 
 # Get the bot token from environment variables
-TOKEN = os.getenv('7323756627:AAFENf3dUVp8yTofDMSyRqmp-2Js4QCYdFk')
+TOKEN = os.getenv('YourTelegramBotTokenHere')
 
 
 # Function to handle the /start command
